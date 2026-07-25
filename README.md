@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -139,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
