@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
