@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0237-delete-node-in-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
