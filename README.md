@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1539-kth-missing-positive-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
