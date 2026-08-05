@@ -200,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1757-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
