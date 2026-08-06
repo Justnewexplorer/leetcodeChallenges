@@ -11,10 +11,9 @@ class Solution {
     }
 
     public int smallestNumber(int n, int t) {
-        while(true){
-            if(product(n) % t == 0)
-                return n;
-            n++;    
+        while (product(n) % t != 0) {
+            n++;
         }
+        return n;
     }
 }
