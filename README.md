@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0237-delete-node-in-a-linked-list) |
 ## Database
 |  |
