@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2029-stone-game-ix) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2029-stone-game-ix) |
 ## Linked List
@@ -295,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
