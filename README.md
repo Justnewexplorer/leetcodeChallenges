@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1563-stone-game-v) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [0940-distinct-subsequences-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1781-sum-of-beauty-of-all-substrings) |
