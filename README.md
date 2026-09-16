@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0836-rectangle-overlap) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
