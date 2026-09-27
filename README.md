@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
