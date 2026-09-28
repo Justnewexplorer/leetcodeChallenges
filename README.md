@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1096-brace-expansion-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
