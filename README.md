@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0206-reverse-linked-list) |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
