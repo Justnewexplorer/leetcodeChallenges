@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1096-brace-expansion-ii) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
