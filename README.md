@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1140-stone-game-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1927-sum-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1096-brace-expansion-ii) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
