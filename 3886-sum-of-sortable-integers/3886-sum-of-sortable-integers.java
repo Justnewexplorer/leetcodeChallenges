@@ -1,55 +1,89 @@
-
-import java.util.*;
-
 class Solution {
+
+    //KMP Start
+    void computeLPS(int[] pattern, int[] lps) {
+        int M = pattern.length;
+        int len = 0;
+        lps[0] = 0;
+
+        int i = 1;
+        while (i < M) {
+            if (pattern[i] == pattern[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+    }
+
+    boolean search(int[] pat, int[] txt) {
+        int N = txt.length;
+        int M = pat.length;
+
+        int[] lps = new int[M];
+        computeLPS(pat, lps);
+
+        int i = 0; // index for text
+        int j = 0; // index for pattern
+
+        while (i < N) {
+            if (pat[j] == txt[i]) {
+                i++;
+                j++;
+            }
+
+            if (j == M) {
+                return true; // pattern found , return true
+            } else if (i < N && pat[j] != txt[i]) {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+        return false;
+    }
+    //KMP End
+
+    // Is vec1 a cyclic rotation of vec2 ,  then, vec1 occurs in vec2+vec2
+    boolean isRotation(int[] vec1, int[] vec2) {
+        int[] txt = new int[vec2.length * 2];
+        System.arraycopy(vec2, 0, txt, 0, vec2.length);
+        System.arraycopy(vec2, 0, txt, vec2.length, vec2.length); // vec2 + vec2
+        return search(vec1, txt);
+    }
+
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
-
         int[] sorted = nums.clone();
-        Arrays.sort(sorted);
+        java.util.Arrays.sort(sorted);
 
-        int ans = 0;
+        int result = 0;
 
         for (int k = 1; k <= n; k++) {
-            if (n % k != 0) {
-                continue;
-            }
+            if (n % k != 0) continue;
+
             boolean valid = true;
-
             for (int start = 0; start < n; start += k) {
+                int[] vec1 = java.util.Arrays.copyOfRange(nums, start, start + k);
+                int[] vec2 = java.util.Arrays.copyOfRange(sorted, start, start + k);
 
-                HashMap<Integer, Integer> freq = new HashMap<>();
-
-                for (int i = start; i < start + k; i++) {
-                    freq.merge(nums[i], 1, Integer::sum);
-                    freq.merge(sorted[i], -1, Integer::sum);
-                }
-                for (int count : freq.values()) {
-                    if (count != 0) {
-                        valid = false;
-                        break;
-                    }
-                }
-                if (!valid) {
-                    break;
-                }
-                int descents = 0;
-                for (int i = start; i < start + k; i++) {
-                    int next = start + (i - start + 1) % k;
-
-                    if (nums[i] > nums[next]) {
-                        descents++;
-                    }
-                }
-                if (descents > 1) {
+                if (!isRotation(vec1, vec2)) {
                     valid = false;
                     break;
                 }
             }
-            if (valid) {
-                ans += k;
-            }
+            if (valid)
+                result += k;
         }
-        return ans;
+        return result;
     }
 }
