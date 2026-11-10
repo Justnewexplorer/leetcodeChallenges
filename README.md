@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -630,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
