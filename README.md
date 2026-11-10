@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0410-split-array-largest-sum) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Justnewexplorer/leetcodeChallenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
