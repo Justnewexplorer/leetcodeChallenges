@@ -43,7 +43,7 @@ class Solution {
                 // j is the starting index of the last substring.
                 for (int j = 2 * (p - 1); j <= i - 2; j++) {
                     if (dp[p - 1][j] == INF) {
-                        
+                        continue;
                     }
                     dp[p][i] = Math.min(dp[p][i],dp[p - 1][j] + cost[j][i - 1]);
                 }
